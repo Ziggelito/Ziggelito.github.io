@@ -26,3 +26,6 @@ a{
 a:hover{
     color: blueviolet;
 }
+body{
+    background-color: bisque;
+}
