@@ -4,8 +4,9 @@ h1{
 }
 img {
     width: 400px;
-    height: 500px;
+    height: 300px;
     border-radius: 50px;
+    margin: auto;
 
 
 
@@ -15,6 +16,7 @@ img {
 p{
     font: 100;
     font-family: 'Open Sans', sans-serif;
+    padding: 0 0 10px 0;
 }
 a{
     text-decoration: none;
